@@ -1,0 +1,653 @@
+
+[
+  {
+    "employeeId": "EMP-1753352657785253",
+    "name": "Anvi Borra",
+    "address": "H.No. 94, Khosla Chowk, Ahmedabad",
+    "age": 56,
+    "department": "Engineering",
+    "status": "Remote Location",
+    "coordinates": {
+      "lat": 23.0225,
+      "lng": 72.5714
+    },
+    "role": "Senior Software Engineer"
+  },
+  {
+    "employeeId": "EMP-1753352657796176",
+    "name": "Madhup Dhillon",
+    "address": "97\nRay, Bangalore",
+    "age": 40,
+    "department": "Operations",
+    "status": "Remote Location",
+    "coordinates": {
+      "lat": 12.9716,
+      "lng": 77.5946
+    },
+    "role": "Operations Manager"
+  },
+  {
+    "employeeId": "EMP-1753352657806518",
+    "name": "Manjari Shukla",
+    "address": "27/374, Sastry Nagar, Hyderabad",
+    "age": 56,
+    "department": "Finance",
+    "status": "Full-Time",
+    "coordinates": {
+      "lat": 17.385,
+      "lng": 78.4867
+    },
+    "role": "Finance Director"
+  },
+  {
+    "employeeId": "EMP-1753352657817993",
+    "name": "Devansh Sekhon",
+    "address": "57\nRamachandran Zila, Mumbai",
+    "age": 39,
+    "department": "Operations",
+    "status": "Contract Employee",
+    "coordinates": {
+      "lat": 19.076,
+      "lng": 72.8777
+    },
+    "role": "IT Operations Specialist (Contract)"
+  },
+  {
+    "employeeId": "EMP-1753352657828895",
+    "name": "Darshit Chaudhari",
+    "address": "H.No. 010, Andra Path, Hyderabad",
+    "age": 30,
+    "department": "Operations",
+    "status": "Remote Location",
+    "coordinates": {
+      "lat": 17.385,
+      "lng": 78.4867
+    },
+    "role": "Remote Operations Coordinator"
+  },
+  {
+    "employeeId": "EMP-1753352657839191",
+    "name": "Divit Bansal",
+    "address": "19, Gaba Road, Hyderabad",
+    "age": 22,
+    "department": "Engineering",
+    "status": "Full-Time",
+    "coordinates": {
+      "lat": 17.385,
+      "lng": 78.4867
+    },
+    "role": "Junior Software Developer"
+  },
+  {
+    "employeeId": "EMP-1753352657850247",
+    "name": "Hrishita Bhavsar",
+    "address": "54, Bajaj Chowk, Pune",
+    "age": 30,
+    "department": "Engineering",
+    "status": "Contract Employee",
+    "coordinates": {
+      "lat": 18.5204,
+      "lng": 73.8567
+    },
+    "role": "Contract Software Engineer"
+  },
+  {
+    "employeeId": "EMP-1753352657861657",
+    "name": "Mahika Thaker",
+    "address": "H.No. 803, Manne Road, Ahmedabad",
+    "age": 25,
+    "department": "Engineering",
+    "status": "Remote Location",
+    "coordinates": {
+      "lat": 23.0225,
+      "lng": 72.5714
+    },
+    "role": "Remote Software Developer"
+  },
+  {
+    "employeeId": "EMP-1753352657872818",
+    "name": "Neysa Batra",
+    "address": "93, Gokhale Nagar, Mumbai",
+    "age": 27,
+    "department": "HR",
+    "status": "Contract Employee",
+    "coordinates": {
+      "lat": 19.076,
+      "lng": 72.8777
+    },
+    "role": "Contract HR Specialist"
+  },
+  {
+    "employeeId": "EMP-1753352657883715",
+    "name": "Madhav Srivastava",
+    "address": "47/86\nTank Marg, Mumbai",
+    "age": 26,
+    "department": "HR",
+    "status": "Full-Time",
+    "coordinates": {
+      "lat": 19.076,
+      "lng": 72.8777
+    },
+    "role": "HR Generalist"
+  },
+  {
+    "employeeId": "EMP-1753352657893181",
+    "name": "Tara Som",
+    "address": "99/817, Deo, Jaipur",
+    "age": 31,
+    "department": "Operations",
+    "status": "Remote Location",
+    "coordinates": {
+      "lat": 26.9124,
+      "lng": 75.7873
+    },
+    "role": "Remote Operations Analyst"
+  },
+  {
+    "employeeId": "EMP-1753352657904312",
+    "name": "Alia Sheth",
+    "address": "H.No. 00, Virk Marg, Mumbai",
+    "age": 59,
+    "department": "Marketing",
+    "status": "Contract Employee",
+    "coordinates": {
+      "lat": 19.076,
+      "lng": 72.8777
+    },
+    "role": "Contract Marketing Consultant"
+  },
+  {
+    "employeeId": "EMP-1753352657915768",
+    "name": "Aarav Bedi",
+    "address": "H.No. 104\nGill Ganj, Pune",
+    "age": 39,
+    "department": "Marketing",
+    "status": "Full-Time",
+    "coordinates": {
+      "lat": 18.5204,
+      "lng": 73.8567
+    },
+    "role": "Marketing Specialist"
+  },
+  {
+    "employeeId": "EMP-1753352657926442",
+    "name": "Elakshi Saha",
+    "address": "70, Bala Nagar, Kolkata",
+    "age": 46,
+    "department": "Operations",
+    "status": "Full-Time",
+    "coordinates": {
+      "lat": 22.5726,
+      "lng": 88.3639
+    },
+    "role": "Senior Operations Analyst"
+  },
+  {
+    "employeeId": "EMP-1753352657937671",
+    "name": "Badal Ramachandran",
+    "address": "H.No. 844\nBiswas Ganj, Jaipur",
+    "age": 35,
+    "department": "HR",
+    "status": "Contract Employee",
+    "coordinates": {
+      "lat": 26.9124,
+      "lng": 75.7873
+    },
+    "role": "Contract HR Recruiter"
+  },
+  {
+    "employeeId": "EMP-1753352657948975",
+    "name": "Jivin Balakrishnan",
+    "address": "29/16, Savant Road, Bangalore",
+    "age": 42,
+    "department": "Engineering",
+    "status": "Remote Location",
+    "coordinates": {
+      "lat": 12.9716,
+      "lng": 77.5946
+    },
+    "role": "Remote Lead Engineer"
+  },
+  {
+    "employeeId": "EMP-1753352657959520",
+    "name": "Aaryahi Guha",
+    "address": "H.No. 880\nBala Road, Delhi",
+    "age": 30,
+    "department": "HR",
+    "status": "Remote Location",
+    "coordinates": {
+      "lat": 28.6139,
+      "lng": 77.209
+    },
+    "role": "Remote HR Coordinator"
+  },
+  {
+    "employeeId": "EMP-1753352657970833",
+    "name": "Zoya Bir",
+    "address": "H.No. 005\nRaj Circle, Pune",
+    "age": 53,
+    "department": "Marketing",
+    "status": "Remote Location",
+    "coordinates": {
+      "lat": 18.5204,
+      "lng": 73.8567
+    },
+    "role": "Remote Marketing Manager"
+  },
+  {
+    "employeeId": "EMP-1753352657981548",
+    "name": "Keya Shukla",
+    "address": "16/461\nGolla Ganj, Bangalore",
+    "age": 51,
+    "department": "Engineering",
+    "status": "Contract Employee",
+    "coordinates": {
+      "lat": 12.9716,
+      "lng": 77.5946
+    },
+    "role": "Contract Solutions Architect"
+  },
+  {
+    "employeeId": "EMP-1753352657992761",
+    "name": "Uthkarsh Gera",
+    "address": "H.No. 00\nAhluwalia Street, Chennai",
+    "age": 23,
+    "department": "Finance",
+    "status": "Remote Location",
+    "coordinates": {
+      "lat": 13.0827,
+      "lng": 80.2707
+    },
+    "role": "Remote Junior Accountant"
+  },
+  {
+    "employeeId": "EMP-1753352658003295",
+    "name": "Prisha Wali",
+    "address": "62/71\nDeep Chowk, Delhi",
+    "age": 57,
+    "department": "Operations",
+    "status": "Remote Location",
+    "coordinates": {
+      "lat": 28.6139,
+      "lng": 77.209
+    },
+    "role": "Remote Senior Operations Manager"
+  },
+  {
+    "employeeId": "EMP-1753352658013596",
+    "name": "Jhanvi Bajaj",
+    "address": "H.No. 40\nGole Street, Pune",
+    "age": 42,
+    "department": "HR",
+    "status": "Full-Time",
+    "coordinates": {
+      "lat": 18.5204,
+      "lng": 73.8567
+    },
+    "role": "HR Manager"
+  },
+  {
+    "employeeId": "EMP-1753352658024436",
+    "name": "Ritvik Basak",
+    "address": "150, Tailor Chowk, Bangalore",
+    "age": 38,
+    "department": "Finance",
+    "status": "Remote Location",
+    "coordinates": {
+      "lat": 12.9716,
+      "lng": 77.5946
+    },
+    "role": "Remote Financial Analyst"
+  },
+  {
+    "employeeId": "EMP-1753352658035105",
+    "name": "Vivaan Garde",
+    "address": "77/88, Thakkar, Mumbai",
+    "age": 31,
+    "department": "Engineering",
+    "status": "Contract Employee",
+    "coordinates": {
+      "lat": 19.076,
+      "lng": 72.8777
+    },
+    "role": "Contract Frontend Developer"
+  },
+  {
+    "employeeId": "EMP-1753352658046376",
+    "name": "Taimur Yadav",
+    "address": "H.No. 37\nShetty Zila, Lucknow",
+    "age": 60,
+    "department": "HR",
+    "status": "Contract Employee",
+    "coordinates": {
+      "lat": 26.8467,
+      "lng": 80.9462
+    },
+    "role": "Contract HR Consultant"
+  },
+  {
+    "employeeId": "EMP-1753352658057200",
+    "name": "Yuvaan Luthra",
+    "address": "37/60\nLad Zila, Kolkata",
+    "age": 47,
+    "department": "Operations",
+    "status": "Remote Location",
+    "coordinates": {
+      "lat": 22.5726,
+      "lng": 88.3639
+    },
+    "role": "Remote IT Operations Lead"
+  },
+  {
+    "employeeId": "EMP-1753352658068715",
+    "name": "Piya Dewan",
+    "address": "464, Madan Path, Ahmedabad",
+    "age": 36,
+    "department": "Marketing",
+    "status": "Full-Time",
+    "coordinates": {
+      "lat": 23.0225,
+      "lng": 72.5714
+    },
+    "role": "Digital Marketing Specialist"
+  },
+  {
+    "employeeId": "EMP-1753352658079387",
+    "name": "Krish Lalla",
+    "address": "356, Sarraf Nagar, Mumbai",
+    "age": 44,
+    "department": "Engineering",
+    "status": "Contract Employee",
+    "coordinates": {
+      "lat": 19.076,
+      "lng": 72.8777
+    },
+    "role": "Contract DevOps Engineer"
+  },
+  {
+    "employeeId": "EMP-1753352658090992",
+    "name": "Kiara Luthra",
+    "address": "69\nBal Zila, Delhi",
+    "age": 40,
+    "department": "Operations",
+    "status": "Full-Time",
+    "coordinates": {
+      "lat": 28.6139,
+      "lng": 77.209
+    },
+    "role": "Operations Team Lead"
+  },
+  {
+    "employeeId": "EMP-1753352658101756",
+    "name": "Anvi Bajwa",
+    "address": "H.No. 79, Solanki Marg, Delhi",
+    "age": 35,
+    "department": "Operations",
+    "status": "Remote Location",
+    "coordinates": {
+      "lat": 28.6139,
+      "lng": 77.209
+    },
+    "role": "Remote Business Operations Analyst"
+  },
+  {
+    "employeeId": "EMP-1753352658112648",
+    "name": "Yakshit Choudhary",
+    "address": "81/65, Ray Nagar, Pune",
+    "age": 38,
+    "department": "Marketing",
+    "status": "Contract Employee",
+    "coordinates": {
+      "lat": 18.5204,
+      "lng": 73.8567
+    },
+    "role": "Contract Marketing Manager"
+  },
+  {
+    "employeeId": "EMP-1753352658123227",
+    "name": "Dhanush Aggarwal",
+    "address": "H.No. 67\nGupta Nagar, Kolkata",
+    "age": 30,
+    "department": "Finance",
+    "status": "Remote Location",
+    "coordinates": {
+      "lat": 22.5726,
+      "lng": 88.3639
+    },
+    "role": "Remote Finance Associate"
+  },
+  {
+    "employeeId": "EMP-1753352658133239",
+    "name": "Chirag Dora",
+    "address": "488\nLata Nagar, Jaipur",
+    "age": 53,
+    "department": "Engineering",
+    "status": "Contract Employee",
+    "coordinates": {
+      "lat": 26.9124,
+      "lng": 75.7873
+    },
+    "role": "Contract Principal Engineer"
+  },
+  {
+    "employeeId": "EMP-1753352658144568",
+    "name": "Nirvi Swaminathan",
+    "address": "10/444\nMadan Road, Jaipur",
+    "age": 40,
+    "department": "Finance",
+    "status": "Full-Time",
+    "coordinates": {
+      "lat": 26.9124,
+      "lng": 75.7873
+    },
+    "role": "Financial Controller"
+  },
+  {
+    "employeeId": "EMP-1753352658155344",
+    "name": "Zeeshan Hayre",
+    "address": "46/432, Brar Nagar, Mumbai",
+    "age": 41,
+    "department": "Finance",
+    "status": "Remote Location",
+    "coordinates": {
+      "lat": 19.076,
+      "lng": 72.8777
+    },
+    "role": "Remote Senior Accountant"
+  },
+  {
+    "employeeId": "EMP-1753352658166330",
+    "name": "Dhruv Wable",
+    "address": "38/172\nTrivedi Nagar, Ahmedabad",
+    "age": 24,
+    "department": "HR",
+    "status": "Contract Employee",
+    "coordinates": {
+      "lat": 23.0225,
+      "lng": 72.5714
+    },
+    "role": "Contract HR Assistant"
+  },
+  {
+    "employeeId": "EMP-1753352658177149",
+    "name": "Aarav Dave",
+    "address": "16/834\nRajan Zila, Mumbai",
+    "age": 49,
+    "department": "Marketing",
+    "status": "Contract Employee",
+    "coordinates": {
+      "lat": 19.076,
+      "lng": 72.8777
+    },
+    "role": "Contract Marketing Director"
+  },
+  {
+    "employeeId": "EMP-1753352658188932",
+    "name": "Hrishita Chowdhury",
+    "address": "78/28, Chaudhry, Chennai",
+    "age": 40,
+    "department": "Operations",
+    "status": "Remote Location",
+    "coordinates": {
+      "lat": 13.0827,
+      "lng": 80.2707
+    },
+    "role": "Remote IT Support Manager"
+  },
+  {
+    "employeeId": "EMP-1753352658199649",
+    "name": "Misha Shroff",
+    "address": "64/87, Tella, Chennai",
+    "age": 48,
+    "department": "Engineering",
+    "status": "Remote Location",
+    "coordinates": {
+      "lat": 13.0827,
+      "lng": 80.2707
+    },
+    "role": "Remote Solutions Architect"
+  },
+  {
+    "employeeId": "EMP-1753352658210747",
+    "name": "Aarav Barman",
+    "address": "H.No. 81\nIyer Ganj, Hyderabad",
+    "age": 44,
+    "department": "HR",
+    "status": "Remote Location",
+    "coordinates": {
+      "lat": 17.385,
+      "lng": 78.4867
+    },
+    "role": "Remote HR Business Partner"
+  },
+  {
+    "employeeId": "EMP-1753352658220420",
+    "name": "Baiju Trivedi",
+    "address": "H.No. 13, Bhargava Ganj, Delhi",
+    "age": 42,
+    "department": "Marketing",
+    "status": "Remote Location",
+    "coordinates": {
+      "lat": 28.6139,
+      "lng": 77.209
+    },
+    "role": "Remote Product Marketing Manager"
+  },
+  {
+    "employeeId": "EMP-1753352658231628",
+    "name": "Divij Uppal",
+    "address": "824, Sinha Zila, Ahmedabad",
+    "age": 59,
+    "department": "Finance",
+    "status": "Full-Time",
+    "coordinates": {
+      "lat": 23.0225,
+      "lng": 72.5714
+    },
+    "role": "Chief Financial Officer (CFO)"
+  },
+  {
+    "employeeId": "EMP-1753352658242536",
+    "name": "Baiju Vasa",
+    "address": "61/149, Sarraf Path, Delhi",
+    "age": 27,
+    "department": "Finance",
+    "status": "Contract Employee",
+    "coordinates": {
+      "lat": 28.6139,
+      "lng": 77.209
+    },
+    "role": "Contract Financial Analyst"
+  },
+  {
+    "employeeId": "EMP-1753352658253102",
+    "name": "Dhruv Barad",
+    "address": "92/588\nKadakia Nagar, Lucknow",
+    "age": 42,
+    "department": "HR",
+    "status": "Full-Time",
+    "coordinates": {
+      "lat": 26.8467,
+      "lng": 80.9462
+    },
+    "role": "HR Business Partner"
+  },
+  {
+    "employeeId": "EMP-1753352658263562",
+    "name": "Seher Barad",
+    "address": "60, Kanda Marg, Chennai",
+    "age": 44,
+    "department": "Operations",
+    "status": "Full-Time",
+    "coordinates": {
+      "lat": 13.0827,
+      "lng": 80.2707
+    },
+    "role": "Senior Operations Specialist"
+  },
+  {
+    "employeeId": "EMP-1753352658274631",
+    "name": "Ryan Arya",
+    "address": "044, Sarma, Kolkata",
+    "age": 50,
+    "department": "HR",
+    "status": "Remote Location",
+    "coordinates": {
+      "lat": 22.5726,
+      "lng": 88.3639
+    },
+    "role": "Remote HR Director"
+  },
+  {
+    "employeeId": "EMP-1753352658285175",
+    "name": "Khushi Datta",
+    "address": "H.No. 19\nBorra Path, Bangalore",
+    "age": 53,
+    "department": "HR",
+    "status": "Full-Time",
+    "coordinates": {
+      "lat": 12.9716,
+      "lng": 77.5946
+    },
+    "role": "HR Director"
+  },
+  {
+    "employeeId": "EMP-1753352658296803",
+    "name": "Seher Amble",
+    "address": "07/38\nRana Ganj, Delhi",
+    "age": 23,
+    "department": "Marketing",
+    "status": "Contract Employee",
+    "coordinates": {
+      "lat": 28.6139,
+      "lng": 77.209
+    },
+    "role": "Contract Marketing Assistant"
+  },
+  {
+    "employeeId": "EMP-1753352658307464",
+    "name": "Taimur Bakshi",
+    "address": "H.No. 84\nKaul Path, Ahmedabad",
+    "age": 36,
+    "department": "HR",
+    "status": "Contract Employee",
+    "coordinates": {
+      "lat": 23.0225,
+      "lng": 72.5714
+    },
+    "role": "Contract Talent Acquisition Specialist"
+  },
+  {
+    "employeeId": "EMP-1753352658318128",
+    "name": "Arnav Khosla",
+    "address": "86, Balasubramanian Ganj, Mumbai",
+    "age": 36,
+    "department": "Engineering",
+    "status": "Full-Time",
+    "coordinates": {
+      "lat": 19.076,
+      "lng": 72.8777
+    },
+    "role": "Software Engineer"
+  }
+]
